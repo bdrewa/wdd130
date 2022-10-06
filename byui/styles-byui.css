@@ -1,8 +1,23 @@
 .main-para {
     font-size: 1.5em;
     line-height: 1.5em;
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
 }
 #active {
     background-color: white;
     color: rgb(180, 70, 70);
+}
+img {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+nav, footer {
+    text-align: center;
 }
