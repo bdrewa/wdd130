@@ -1,25 +1,25 @@
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a | */
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&family|Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&familyRoboto+Slab&display=swap');
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #FDDC08;
+  --primary-color: #fd0808;
   --secondary-color: #424F89;
   --accent1-color: #FFFFFF;
   --accent2-color: #000000;
 
   /* change the values below to your chosen font(s) */
-  --heading-font: 'Roboto Slab', sans-serif;
-  --paragraph-font: 'Nunito Sans', sans-serif;
+  --heading-font: Roboto+Slab, sans-serif;
+  --paragraph-font: Nunito+Sans, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
   --headline-color-on-white: #424F89;  /* headlines on a white background */ 
   --headline-color-on-color: white; /* headlines on a colored background */ 
-  --paragraph-color-on-white: #FDDC08; /* paragraph text on a white background */ 
+  --paragraph-color-on-white: #fd0808; /* paragraph text on a white background */ 
   --paragraph-color-on-color: #000000; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #FDDC08;
+  --paragraph-background-color: #fd0808;
   --nav-link-color: #000000;
   --nav-background-color: #424F89;
   --nav-hover-link-color: white;
