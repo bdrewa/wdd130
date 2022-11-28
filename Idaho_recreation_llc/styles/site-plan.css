@@ -39,6 +39,7 @@ body {
 img {
   display: block;
   margin: 0 auto;
+  width: 50%;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--heading-font);
@@ -146,12 +147,12 @@ nav a:hover {
   background-color: #ccc;
   line-height: 3em;
 }
-.sm-page2 {
+.sm-AvailableMotorhomes {
   grid-area: page2;
   background-color: #ccc;
   line-height: 3em;
 }
-.sm-page3 {
+.sm-AboutUs {
   grid-area: page3;
   background-color: #ccc;
   line-height: 3em;
